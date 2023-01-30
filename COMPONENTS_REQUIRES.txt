@@ -1,0 +1,11 @@
+Materials required:
+
+ Arduino Uno
+ Ultrasonic Range Finder Sensor – HC – SR04
+ Motor Driver IC – L293D
+ Servo Motor (Tower Pro SG90)
+ Geared Motors x 2
+ Robot Chassis
+ Power Supply
+ Battery Connector
+ Battery Holder
