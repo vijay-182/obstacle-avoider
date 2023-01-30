@@ -4,8 +4,8 @@ ultrasonic sensor and Arduino,
 
  When the robot is powered on, both the motors of the robot will run normally
 and the robot moves forward. During this time, the ultrasonic sensor
-
 continuously calculates the distance between the robot and the reflective surface.
+
  If the distance between the robot and the obstacle is less than 15cm, the Robot
 stops and scans in left and right directions for new distance using Servo Motor
 and Ultrasonic Sensor. If the distance towards the left side is more than that of
